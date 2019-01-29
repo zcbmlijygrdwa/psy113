@@ -1,0 +1,10 @@
+﻿How to access element in MatrixForm.
+No, it is not a "numeric type"
+
+
+How to drag and place image to nb.
+
+imageVariable = (Drop image here)
+
+Import image directly from temp directory.
+img = Import["/home/zhenyu/Downloads/pt2.jpg"]
